@@ -1,1 +1,2 @@
-# Optimizing-LLAMA-2
+# Optimizing-LLAMA-2\
+This project focuses on enhancing the efficiency and performance of Large Language Models (LLMs), specifically Meta's LLaMA 2, by integrating cutting-edge architectural and inference optimizations. It explores methods like Grouped Multi-Query Attention (G-MQA), Key-Value Caching, Rotary Positional Embeddings (RoPE), SwiGLU activation, and efficient fine-tuning using LoRA (Low-Rank Adaptation).
